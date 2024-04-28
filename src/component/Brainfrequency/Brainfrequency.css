@@ -1,0 +1,15 @@
+.form-con{
+	display: flex;
+	justify-content: space-between;
+}
+
+.brain-label{
+	padding-top: 20px;
+	padding-left: 20px;
+	font-weight: 700;
+	font-size: larger;
+}
+.form-heading{
+	font-weight: 700 !important;
+	font-size: 2rem !important;
+}

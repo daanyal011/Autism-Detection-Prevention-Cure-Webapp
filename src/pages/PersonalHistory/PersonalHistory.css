@@ -1,0 +1,487 @@
+.fontapply{
+    font-family:'Times New Roman';
+}
+
+.boxpadding{
+    margin-top:10pt; 
+    margin-bottom:0pt; 
+    page-break-inside:avoid; 
+    page-break-after:avoid; 
+    font-size:11pt;
+}
+
+.fontapply1{
+    font-family:'Times New Roman'; 
+    color:#404040
+}
+
+.font2{
+    height:0pt; 
+    margin-top:-10pt; 
+    display:block; 
+    position:absolute; 
+    z-index:3;
+}
+
+.font3{
+    height:0pt; 
+    margin-top:-10pt; 
+    display:block; 
+    position:absolute; 
+    z-index:4;
+}
+
+.Checkbox-space{
+    margin-top:0pt; 
+    margin-bottom:0pt; 
+    font-size:11pt;
+}
+
+.Checkbox1{
+    width:14.19pt; 
+    display:inline-block;
+}
+
+.Checkbox2{
+    width:36pt; 
+    display:inline-block;
+}
+
+.input1{
+    margin-left:31.25pt; 
+    padding-left:4.75pt; 
+    font-family:'Times New Roman'; 
+    font-size:11pt;
+}
+
+.ullist{
+    margin:0pt; 
+    padding-left:0pt; 
+}
+
+.spacing3{
+    margin-top:0pt; 
+    margin-right:4.3pt; 
+    margin-bottom:0pt; 
+    line-height:150%; 
+    font-size:11pt;
+}
+
+.spacing4{
+    margin-top:0pt; 
+    margin-right:4.3pt; 
+    margin-bottom:0pt; 
+    line-height:115%;
+}
+
+.spacing5{
+    margin-top:0pt; 
+    margin-right:4.3pt; 
+    margin-bottom:0pt; 
+    line-height:115%; 
+    font-size:11pt;
+}
+
+.spacing6{
+    margin-top:0pt; 
+    margin-bottom:0pt; 
+    text-indent:36pt; 
+    font-size:11pt;
+}
+
+.spacing7{
+    width:30.05pt; 
+    text-indent:0pt; 
+    display:inline-block;
+}
+
+
+.spacing8{
+    width:36pt; 
+    text-indent:0pt; 
+    display:inline-block;
+}
+
+.spacing9{
+    width:28.89pt; 
+    text-indent:0pt; 
+    display:inline-block;
+}
+
+.spacing10{
+    width:2.31pt; 
+    text-indent:0pt; 
+    display:inline-block;
+}
+
+.spacing11{
+    width:23.94pt; 
+    text-indent:0pt; 
+    display:inline-block;
+}
+
+.spacing12{
+    width:0.87pt; 
+    display:inline-block;
+}
+
+.spacing13{
+    width:16.24pt; 
+    text-indent:0pt; 
+    display:inline-block;
+}
+
+.spacing14{
+    width:30.5pt; 
+    text-indent:0pt; 
+    display:inline-block;
+}
+
+.spacing15{
+    width:20.87pt; 
+    display:inline-block;
+}
+
+.spacing16{
+    margin-top:0pt; 
+    margin-left:36pt; 
+    margin-bottom:0pt; 
+    font-size:11pt;
+}
+
+.spacing17{
+    font-family:'Times New Roman'; 
+    font-size:11pt;
+}
+
+.spacing18{
+    margin-top:0pt; 
+    margin-bottom:0pt; 
+    widows:0; orphans:0; 
+    font-size:11pt;
+}
+
+.spacing19{
+    width:74.25pt; 
+    display:inline-block;
+}
+
+.spacing20{
+    width:33.75pt; display:inline-block;
+}
+
+.spacing21{
+    margin-top:0pt; 
+    margin-bottom:0pt; 
+    line-height:150%; 
+    widows:0; 
+    orphans:0; 
+    font-size:11pt;
+}
+
+.spacing22{
+    width:21.54pt; 
+    display:inline-block;
+}
+
+.spacing23{
+    margin-top:0pt; 
+    margin-bottom:0pt; 
+    text-align:center; 
+    line-height:115%;
+}
+
+.spacing24{
+    margin: 0 0 0 auto; 
+    display: block;
+}
+
+.spacing25{
+    margin-top:0pt; 
+    margin-left:18pt; 
+    margin-bottom:0pt; 
+    font-size:11pt;
+}
+
+.spacing26{
+    height:0pt; 
+    display:block; 
+    position:absolute; 
+    z-index:1;
+}
+
+.spacing27{
+    width:3.83pt; 
+    display:inline-block;
+}
+
+.spacing28{
+    height:0pt; 
+    display:block; 
+    position:absolute; 
+    z-index:2;
+}
+
+.spacing29{
+    width:29.24pt; 
+    display:inline-block;
+}
+
+.spacing30{
+    width:26.12pt; 
+    display:inline-block;
+}
+
+.spacing31{
+   margin-top:0pt; 
+   margin-bottom:0pt;
+}
+
+.spacing32{
+    width:35.85pt; 
+    display:inline-block;
+}
+
+.spacing33{
+    width:26.07pt; 
+    display:inline-block;
+}
+
+.spacing34{
+    width:31.58pt; 
+    display:inline-block;
+}
+
+.spacing35{
+    width:11.77pt; 
+    display:inline-block;
+}
+.spacing36{
+    width:11.12pt; 
+    display:inline-block;
+}
+
+.spacing37{
+   width:16.66pt; 
+   display:inline-block;
+}
+
+.spacing38{
+    width:9.39pt; 
+    display:inline-block;
+}
+
+.spacing39{
+    width:8.71pt; 
+    text-indent:0pt; 
+    display:inline-block;
+}
+
+.spacing40{
+    width:33.16pt; 
+    display:inline-block
+}
+
+.spacing41{
+    font-family:'Times New Roman'; 
+    text-transform:uppercase;
+}
+
+.spacing42{
+    width:28.23pt; 
+    text-indent:0pt; 
+    display:inline-block;
+}
+
+.spacing43{
+    width:20.22pt; 
+    display:inline-block;
+}
+
+.spacing44{
+    width:34.53pt; 
+    display:inline-block;
+}
+
+.spacing45{
+    width:13.24pt; 
+    display:inline-block;
+}
+
+.spacing46{
+    width:8.98pt; 
+    display:inline-block;
+}
+
+.spacing47{
+    width:35.8pt; 
+    display:inline-block;
+}
+
+.spacing48{
+    width:13.54pt; 
+    text-indent:0pt; 
+    display:inline-block;
+}
+
+.spacing49{
+    width:13.29pt; 
+    display:inline-block;
+}
+
+.spacing50{
+    width:7.7pt; 
+    display:inline-block;
+}
+
+.spacing51{
+    width:4.74pt; 
+    display:inline-block;
+}
+
+.spacing52{
+    width:31.36pt; 
+    display:inline-block;
+}
+
+.spacing53{
+    width:15.21pt; 
+    display:inline-block;
+}
+
+.spacing54{
+    width:14.2pt; 
+    display:inline-block;
+}
+
+.spacing55{
+    width:26.98pt; 
+    display:inline-block;
+}
+
+.spacing56{
+    width:33.09pt; 
+    display:inline-block;
+}
+
+.spacing57{
+    width:20.93pt; 
+    display:inline-block;
+}
+
+.spacing58{
+    width:8.2pt; 
+    display:inline-block;
+} 
+
+.spacing59{
+    width:22.48pt; 
+    display:inline-block;
+}
+
+.spacing60{
+    width:21.83pt; 
+    display:inline-block;
+}
+
+.spacing61{
+    width:19.4pt; 
+    display:inline-block;
+}
+
+#form-head {
+	text-align: center;
+	font-size: 30px;
+	font-weight: 500;
+	margin-left: -4rem;
+    color: #404040;
+  }
+
+  label{
+    color: #404040;
+  }
+  
+  /* reason for evaluation */
+  
+  #rfe{
+	margin-top: 2rem;
+	text-align: start;
+	font-size: 20px;
+	font-weight: 500;
+  }
+  
+  
+  /* problems begins */
+  #problem-begins-head #goals-evaluation{
+	margin-top: 2rem;
+  }
+  
+  /* family info */
+  #fi {
+	margin-top: 2rem;
+	text-align: start;
+	font-size: 20px;
+	font-weight: 500;
+  }
+  
+  #ocupation-check{
+	margin-top: 2.1rem;
+  }
+  
+  
+  /* Siblings info */
+  
+  #si{
+	margin-top: 2rem;
+	text-align: start;
+	font-size: 20px;
+	font-weight: 500;
+  }
+  
+  #si-checkbox{
+	padding-right: 0.8rem;
+  }
+  
+  /* medical history */
+  
+  #mh{
+	margin-top: 2rem;
+	text-align: start;
+	font-size: 20px;
+	font-weight: 500;
+  }
+
+  #ccd{
+	margin-top: 2rem;
+	text-align: start;
+	font-size: 20px;
+	font-weight: 500;
+  }
+
+   #fph{
+	margin-top: 2rem;
+	text-align: start;
+	font-size: 20px;
+	font-weight: 500;
+  }
+
+  #pbh {
+	margin-top: 2rem;
+	text-align: start;
+	font-size: 20px;
+	font-weight: 500;
+  }
+
+  #mhdp{
+    margin-top: 2rem;
+	text-align: start;
+	font-size: 20px;
+	font-weight: 500;
+  }
+
+  #ld{
+    margin-top: 2rem;
+	text-align: start;
+	font-size: 20px;
+	font-weight: 500;
+  }

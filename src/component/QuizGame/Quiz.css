@@ -1,0 +1,15 @@
+.card{
+   width: 18rem;
+}
+
+/* body{
+    color: black !important;
+} */
+
+.list-group{
+    list-style: none;
+}
+
+ul{
+    padding-left: 0rem !important;
+}

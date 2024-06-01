@@ -16,7 +16,9 @@ Please follow the below steps to run this project.
 
 
 ### Trailer
-https://github.com/daanyal011/detck1/assets/83022701/c7f035f4-67dc-42a9-be5c-fc1853eff639
+https://github.com/daanyal011/detck1/assets/83022701/fa873e4a-95cf-4e6a-85e7-38429ec8da76
+
+
 
 <br></br>
 

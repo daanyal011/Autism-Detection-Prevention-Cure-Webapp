@@ -5,9 +5,9 @@
 ### Deployment Steps
 Please follow the below steps to run this project.
 <br>
-1. `pip install -r requirements.txt`<br>
-2. `cd frontend`<br>
-3. `streamlit run multiple_disease_prediction.py`<br><br>
+1. `pip install node`<br>
+2. `npm build`<br>
+3. `npm run`<br><br>
 
 ### Platform, Libraries and Frameworks used
 1. [Reactjs](https://react.dev/)
